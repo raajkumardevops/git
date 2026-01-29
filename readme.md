@@ -5,5 +5,3 @@ this is git
 # this is readme
 
 # this is newBug element  
-
-# this is newFeature element 
