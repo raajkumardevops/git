@@ -1,1 +1,1 @@
-console.log("tghis is github")
+console.log("this is github link")
