@@ -1,1 +1,1 @@
-console.log("this is git course")
+console.log("tghis is github")
